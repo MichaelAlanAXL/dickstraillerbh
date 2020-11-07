@@ -20,7 +20,7 @@ class ComposerStaticInit0a4a1485676dd2efbb7ee2bdc47823ca
     public static $prefixDirsPsr4 = array (
         'Site\\' => 
         array (
-            0 => __DIR__ . '/..' . '/hcodebr/php-classes/src',
+            0 => __DIR__ . '/..' . '/dicks/php-classes/src',
         ),
         'PHPMailer\\PHPMailer\\' => 
         array (

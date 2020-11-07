@@ -1,5 +1,5 @@
 {
-	"name": "MichaelAlanAXL/dickstraillerbh", 
+	"name": "michaelalanaxl/dickstraillerbh", 
 	"authors": [
 		{
 			"name": "Michael Alan", 
@@ -13,7 +13,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"": "vendor\\hcodebr\\php-classes\\src"
+			"Site\\": "vendor\\dicks\\php-classes\\src"
 		}
 	}
 }
